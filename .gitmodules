@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PoolTestR"]
+	path = PoolTestR
+	url = https://github.com/angusmclure/pooltestr
+	shallow = true
+	registered = true
